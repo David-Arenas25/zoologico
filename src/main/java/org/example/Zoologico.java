@@ -16,7 +16,7 @@ public class Zoologico {
 
 
 
-        animal2.encontrarPareja(animal2); //Un animal consigue pareja
+        animal2.encontrarPareja(animal1); //Un animal consigue pareja
 
 
         Familia familia = new Familia(animal2,animal1);
